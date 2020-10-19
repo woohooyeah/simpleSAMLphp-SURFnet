@@ -24,7 +24,7 @@ We assume simpleSAMLphp is installed in `/var/www/simplesamlphp`, see the
 You can install this theme as follows:
 
     $ cd /var/www/simplesamlphp/modules
-    $ git clone https://github.com/SURFnet/simpleSAMLphp-SURFnet.git themeSURFnet
+    $ git clone https://github.com/woohooyeah/simpleSAMLphp-SURFnet.git themeSURFnet
 
 Now you can edit the main configuration file to enable the theme, change the
 following line in `/var/www/simplesamlphp/config/config.php`:
@@ -44,15 +44,16 @@ included in the distribution has size 128x87. You need to modify
 `www/style.css` in the following places:
 
     div#header img{
-            width: 128px;
-            margin: 0 0 0 20px;
+            width: 150px;
+            margin: 20px 0 0 20px;
+            left: 50%;
     }
 
 Set `width` here to the width of the logo.
 
     div#header{
             position:relative;
-            height: 108px;
+            height: 171px;
     }
 
 Set `height` here to the height of the logo and add 21 to it. So if your logo

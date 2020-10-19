@@ -162,7 +162,7 @@ div#wrapper{
 }
 div#header{
 	position:relative;
-	height: 108px;
+	height: 171px;
 }
 div#footer{
 	width:100%;
@@ -208,8 +208,8 @@ h1.mainTitle{
 	margin: 20px 0 20px 20px;
 }
 div#header img{
-	width: 200px;
-	margin: 10px 0 0 10px;
+	width: 150px;
+	margin: 20px 0 0 20px;
 	left: 50%;
 }
 /*                 HEADER                 */
