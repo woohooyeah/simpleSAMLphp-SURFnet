@@ -1,6 +1,6 @@
 {
     "name": "surfnet/simplesamlphp-module-themesurfnet",
-    "description": "SURFnet simpleSAMLphp theme",
+    "description": "SURFnet simpleSAMLphp theme - woohooyeah edition",
     "type": "simplesamlphp-module",
     "license": "LGPL-2.1",
     "extra": {
@@ -12,7 +12,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/SURFnet/simpleSAMLphp-SURFnet"
+            "url": "https://github.com/woohooyeah/simpleSAMLphp-SURFnet"
         }
     ]  
 }
