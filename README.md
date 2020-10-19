@@ -40,7 +40,7 @@ actual login screen with username and password dialog.
 
 # Customization
 If you want to use your own logo you need to modify the CSS somewhat. The logo 
-included in the distribution has size 128x87. You need to modify 
+included in the distribution has size 150x150. You need to modify 
 `www/style.css` in the following places:
 
     div#header img{
